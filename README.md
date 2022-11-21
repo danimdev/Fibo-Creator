@@ -1,3 +1,3 @@
 # Fibo-Creator
 
-A Simple Ruby Script where you can get Fibo numbers of the amount you want.
+A Simple Ruby Script where you can get fibonacci numbers of the amount you want.
